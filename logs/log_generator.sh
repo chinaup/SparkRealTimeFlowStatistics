@@ -1,0 +1,1 @@
+python /root/logs/generate.py

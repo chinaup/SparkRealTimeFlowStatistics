@@ -1,0 +1,1 @@
+spark-submit --master spark://master:7077 --class com.zhangbin.project.StatStreamingApp /root/jar/SparkRealTimeFlowStatistics.jar
