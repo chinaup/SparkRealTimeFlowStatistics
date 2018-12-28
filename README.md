@@ -19,7 +19,6 @@
 
 开启web端项目：      ./start-sparkweb.sh
 
-浏览器打开网页：http://master:9999/sparkweb/category 
-                http://master:9999/sparkweb/search 
+浏览器打开网页：http://master:9999/sparkweb/category 、http://master:9999/sparkweb/search 
 
 
