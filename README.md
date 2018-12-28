@@ -12,3 +12,5 @@
 实时流处理：开发sparkstreaming程序获取kafka数据源的实时流数据，进行处理后保存到HBase数据库中
 
 可视化展示：建立springboot项目读取hbase数据库中的数据，使用echarts实时展示位饼图
+
+使用maven生成jar包放在jar目录下，分别运行start-SparkRealTimeFlowStatistics.sh、start-sparkweb.sh执行程序
