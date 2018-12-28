@@ -16,6 +16,7 @@
 使用maven生成jar包放在jar目录下
 
 开启大数据端项目：   ./start-SparkRealTimeFlowStatistics.sh 
+
 开启web端项目：      ./start-sparkweb.sh
 
 浏览器打开网页：http://master:9999/sparkweb/category 
