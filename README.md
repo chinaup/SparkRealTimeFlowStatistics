@@ -21,4 +21,10 @@
 
 浏览器打开网页：http://master:9999/sparkweb/category 、http://master:9999/sparkweb/search 
 
+可视化展示界面
+======
+点击类目饼状图
+![Image text](https://github.com/chinaup/SparkRealTimeFlowStatistics/blob/master/pics/1.png)
 
+搜索引擎饼状图
+![Image text](https://github.com/chinaup/SparkRealTimeFlowStatistics/blob/master/pics/2.png)
